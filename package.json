@@ -16,6 +16,13 @@
   "author": "Connectdotz <vsun@connectdotz.com>",
   "main": "js/ToolbarAndroid",
   "types": "index.d.ts",
+  "files": [
+    "android/",
+    "ios/",
+    "js/",
+    "index.d.ts",
+    "toolbar-android.podspec"
+  ],
   "scripts": {
     "pack:npm": "npm pack",
     "start": "node node_modules/react-native/local-cli/cli.js start",

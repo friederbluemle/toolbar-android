@@ -1,4 +1,6 @@
 # `@react-native-community/toolbar-android`
+
+[![ci][1]][2]
 [![CircleCI Status](https://img.shields.io/circleci/project/github/react-native-community/toolbar-android/master.svg)](https://circleci.com/gh/react-native-community/workflows/toolbar-android/tree/master) ![Supports Android](https://img.shields.io/badge/platforms-android-lightgrey.svg) ![MIT License](https://img.shields.io/npm/l/@react-native-community/toolbar-android.svg) [![npm version](https://img.shields.io/npm/v/@react-native-community/toolbar-android.svg?style=flat)](https://www.npmjs.com/package/@react-native-community/toolbar-android) [![Lean Core Extracted](https://img.shields.io/badge/Lean%20Core-Extracted-brightgreen.svg)](https://github.com/facebook/react-native/issues/23313)
 
 ## What is it?
@@ -89,3 +91,6 @@ This module was extracted from `react-native` core.
 
 ## License
 The library is released under the MIT licence. For more information see `LICENSE`.
+
+[1]: https://github.com/react-native-community/toolbar-android/workflows/ci/badge.svg
+[2]: https://github.com/react-native-community/toolbar-android/actions
